@@ -1,0 +1,4 @@
+name,description,query,id,parentId,isFolder
+Godzilla x Kong: The New Empire,Movie 1,SELECT * FROM Movie WHERE title = 'Godzilla x Kong: The New Empire',823464,0,False
+Dune: Part Two,Movie 2,SELECT * FROM Movie WHERE title = 'Dune: Part Two',693134,0,False
+Godzilla vs. Kong,Movie 3,SELECT * FROM Movie WHERE title = 'Godzilla vs. Kong',399566,0,False
